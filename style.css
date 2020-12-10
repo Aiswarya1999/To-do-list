@@ -1,0 +1,25 @@
+body {
+    background-image: url('orange.jpg');
+    background-size: 100%;
+  }
+.my-form{
+    border: 10px solid #ee0f0f52;
+    padding: 20px;
+    margin-top: 10%;
+  }
+
+  .my-margin{
+    margin-top: 10%;
+    padding-left: 2%;
+}
+
+#text-div{
+   text-align: center;
+}
+
+#table{
+  margin-top: 30px;
+  margin-left: 100px;
+  width: 80%;
+
+}
